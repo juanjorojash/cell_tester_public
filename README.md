@@ -26,7 +26,7 @@ The program creates the directory **c:/logger_data** to store the data.
 
 ### Contribution guidelines ###
 
-* If you want to propose a review or need to modify the code for any reason first fork this [repository](https://bitbucket.org/juanjorojash/cell_charger_discharger/src/master/) in your PC and create a new branch for your changes. Once your changes are complete and fully tested ask the administrator permission to push this new branch into the source.
+* If you want to propose a review or need to modify the code for any reason first fork this [repository](https://github.com/juanjorojash/cell_tester_public/) in your PC and create a new branch for your changes. Once your changes are complete and fully tested ask the administrator permission to push this new branch into the source.
 * If you just want to do local changes instead you can download a zip version of the repository and do all changes locally in your PC. 
 
 ### Who do I talk to? ###
